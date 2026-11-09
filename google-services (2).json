@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736326743311",
+    "project_id": "nass-27455",
+    "storage_bucket": "nass-27455.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736326743311:android:25ad74dc26638a00ba7a7a",
+        "android_client_info": {
+          "package_name": "com.nacer.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtg--FkTNV5JphWhYEArbYAOMzxEMRh6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
